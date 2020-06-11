@@ -1,0 +1,10 @@
+jupyterlab
+google-colab
+numpy
+pandas
+matplotlib
+statsmodels
+sklearn
+keras
+tensorflow
+glob
